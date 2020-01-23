@@ -5,7 +5,7 @@ This plugin "adds" new items to the game that will be used to reduce additional 
 Access the [wiki](https://github.com/AlonsoAliaga/BetterRepair/wiki) for more information.
 
 ## Links
-- [Spigot resource](https://www.spigotmc.org/resources/X/)
+- [Spigot resource](https://www.spigotmc.org/resources/74569/)
 - [Issue tracker](https://github.com/AlonsoAliaga/BetterRepair/issues)
 - [Donate](https://paypal.me/AlonsoAliaga)
 - [bStats](https://bstats.org/plugin/bukkit/BetterRepair)
