@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/UrEgSNd.png)
+
 # BetterRepair
 This plugin was created to help regular players when using an anvil to fix items or enchanting.
 This plugin "adds" new items to the game that will be used to reduce additional level cost when enchanting or repairing items too many times using an anvil.
